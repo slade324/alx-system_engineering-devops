@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.j" -type f -deletes
+find . -type  f -deletes
